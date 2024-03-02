@@ -1,0 +1,48 @@
+h2{
+  color:hwb(148 37% 33%);
+  background-color:pink;
+  border-radius: 10px;
+}
+
+img{
+  padding:0;
+  border-radius: 1000ic;
+  padding-top: 0;
+}
+h4{
+  color: rgb(175, 14, 51);
+  background-color: rgb(135, 222, 189);
+  border-radius: 10px;
+}
+p{
+  padding-top: 0;
+  color: rgb(111, 142, 48);
+}
+
+h3{
+  color: rgb(13, 141, 196);
+      background-color: pink; }
+
+      .a,.w{
+        color: red;
+      }
+        .b,.x,.v{
+          color: aqua;
+        }
+       .c,.y{
+        color: brown;
+       }
+        .d,.z,{
+          color: chartreuse;
+        }
+        
+        table{
+          border-color: blue;
+        }
+
+
+        body{
+          background-color: rgb(87, 182, 172);
+          border-radius: 10px;
+          border: 2px dashed rgb(170, 26, 98);
+        }
